@@ -1,17 +1,15 @@
-/* styles.css */
-/* 重置 body 元素的默认边距和内边距 */
-body {
-    margin: 0;
-    padding: 0;
-}
+.title { 
+    background-color:black;
+    color:white;
+    border-style: solid;
+    border-radius: 15px;
+    border-bottom-left-radius: 15px;
+    
+    margin: auto; 
+    width: 50%;
+    border: 3px solid grey;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid green;
 
-/* 创建一个容器来放置标题并在顶部居中 */
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start; /* 将标题在垂直方向上顶部对齐 */
-    min-height: 100vh;
-    background-color: blue; /* 添加蓝色背景 */
-    color: white; /* 设置文字颜色为白色 */
-    padding: 20px; /* 添加内边距，使标题与背景之间有一定的间隔 */
 }
