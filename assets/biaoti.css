@@ -1,6 +1,7 @@
 .title { 
-    background-color:black;
-    color:white;
+    background-color: darkorange;
+    opacity: 0.75;
+    color:black;
     border-style: solid;
     border-radius: 15px;
     border-bottom-left-radius: 15px;
@@ -11,5 +12,4 @@
     padding: 10px;
     text-align: center;
     border: 3px solid green;
-
 }

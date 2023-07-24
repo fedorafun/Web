@@ -1,0 +1,13 @@
+.zhongkuang {
+    background-color: darkorange;
+    opacity: 0.75;
+    color:black;
+    border-style: solid;
+    border-radius: 20px;
+    border-bottom-left-radius: 15px;
+
+    
+        background-image: url(../img/fdf.jpg); 
+        background-position: right bottom, left top; 
+        background-repeat: no-repeat, repeat; 
+}
